@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rutkaykarabulak , Software Engineer at Inbestme. Currently, using technologies such as vuejs and ASP.NET
-- 👀 I’m interested in Math, Algorithms, Competitive Programming, Mobile and Web development
-- 🌱 I’m currently learning lot of things :)
+- 👀 I’m interested in Algortihms and Data Structures, and currently trying to deep dive into Web Development
 - 📫 How to reach me? You can always feel free to reach me through email which is rutkaykarabulak@gmail.com
 
 <!---
