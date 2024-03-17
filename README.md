@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rutkaykarabulak , Software Engineer at Inbestme. Currently, using technologies such as vuejs and .NET
-- 👀 I’m interested in Algortihms and Data Structures, and currently trying to deep dive into Web Development
-- 📫 How to reach me? You can always feel free to reach me through email which is rutkaykarabulak@gmail.com
+- 🧑🏽‍💻 Rutkay Karabulak, software engineer at kuehne-nagel. My main stack consists of Java (with Spring Boot), Apache Kafka, and VueJs. 
+- 🤔 I’m interested in Algortihms and Data Structures, and currently trying to deep dive into Web Development.
+- 📫 rutkaykarabulak@gmail.com
 
 <!---
 rutkaykarabulak/rutkaykarabulak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
