@@ -2,6 +2,8 @@
 
 Currently based in **Porto, Portugal**🇵🇹, originally from **Turkey** 🇹🇷. Since 2021, I've been turning ideas into scalable, maintainable, and meaningful code.
 
+Additionally, I'm the 🧠 behind the https://soundzonecompany.com/ music lable, as a CTO :) 
+
 
 
 <!---
